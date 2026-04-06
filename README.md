@@ -16,6 +16,8 @@ There is also a separate lab repository that contains only the lab files from th
 
 ---
 
+[Lab Repository](https://github.com/ExgnosisClasses/2609-Labs-Apr6)
+
 ## Updates
 
 Any updates about the repositories or materials will be posted by date in this README file.
