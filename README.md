@@ -20,5 +20,11 @@ There is also a separate lab repository that contains only the lab files from th
 
 ## Updates
 
-Any updates about the repositories or materials will be posted by date in this README file.
+### April 13, 2026
+
+In preparation for the week three content, I will be going into each VM and making a change to the Oracle settings and then testing the change. This will be done either during the evening or on the weekend so it should not affect you current work.
+
+A summary for the first week and a self test quiz will be added shortly.
+
+I will be adding a set of recommended self study links and resouces for each week. The first week links for Java and Spring boot will be available tomorrow. 
 
