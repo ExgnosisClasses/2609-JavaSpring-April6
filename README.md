@@ -26,5 +26,8 @@ In preparation for the week three content, I will be going into each VM and maki
 
 A summary for the first week and a self test quiz will be added shortly.
 
-I will be adding a set of recommended self study links and resouces for each week. The first week links for Java and Spring boot will be available tomorrow. 
+I will be adding a set of recommended self study links and resouces for each week. The first week links for Java and Spring boot will be available tomorrow.  
 
+### April 17, 2026
+
+There is a new comprehensive lab in the week 2 folders in both the repository and the lab repo. This integrates the material covered in the week into a single exercise.
