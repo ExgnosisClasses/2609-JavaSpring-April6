@@ -15,4 +15,18 @@ A simplified banking platform allowing customers to view accounts and perform tr
 
 ### Scaffolding 
 
-You will be provided with a starter scafolding for the capstone. 
+You will be provided with a starter scaffolding for the capstone. 
+
+### Teams
+
+**Team Rockers:** Srini, Nazir, Yuanming
+
+**Java Brewers:** Manish, Martin, Krupali
+
+**Java Ninjas:** Sandip, Jaemo, Jigar
+
+**Java JellyBeans:** Sandy, Shailendra and Pakeer
+
+**Spring Boot Squad:** Kiran, Fatima, Rama
+
+ 

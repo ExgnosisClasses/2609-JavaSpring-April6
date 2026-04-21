@@ -31,3 +31,8 @@ I will be adding a set of recommended self study links and resouces for each wee
 ### April 17, 2026
 
 There is a new comprehensive lab in the week 2 folders in both the repository and the lab repo. This integrates the material covered in the week into a single exercise.
+
+### April 20, 2026
+
+The Oracle settings have been updated in all the VMs to ensure the credentials are correct and that the VMs can connect to the Oracle database.
+
